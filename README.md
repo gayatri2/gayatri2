@@ -15,7 +15,6 @@ Apart from technical interests, I love sports, traveling and photography.
 
 
 ### Technologies I have worked with:
-[<img align="left" alt="HTML  | HTML" width="22px" src="" />][HTML]
 
 
 ### Connect with me:
