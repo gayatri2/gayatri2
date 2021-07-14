@@ -17,6 +17,8 @@ Apart from technical interests, I love sports, traveling and photography.
 
 [<img align="left" alt="gayatri2  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gayatri2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gayatri2 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
 <br />
 
 
@@ -24,3 +26,5 @@ Apart from technical interests, I love sports, traveling and photography.
 
 [instagram]: https://www.instagram.com/gayatri_godbole/
 [linkedin]: https://www.linkedin.com/in/gayatri-godbole-b1a0471b6/
+[github]:https://github.com/gayatri2
+
