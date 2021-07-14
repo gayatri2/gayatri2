@@ -13,8 +13,9 @@ I am passionate about Web Development and working on various projects in the dom
 Currently, I am also focusing on improving my DSA skills. 
 Apart from technical interests, I love sports, traveling and photography.
 
-###Technologies I have worked with:
-[<img align="left" alt="html  |HTML" width="22px" src="" />][HTML]
+
+### Technologies I have worked with:
+[<img align="left" alt="HTML  | HTML" width="22px" src="" />][HTML]
 
 
 ### Connect with me:
@@ -32,4 +33,5 @@ Apart from technical interests, I love sports, traveling and photography.
 [linkedin]: https://www.linkedin.com/in/gayatri-godbole-b1a0471b6/
 [github]:https://github.com/gayatri2
 [HTML]:https://www.flaticon.com/free-icon/html_1051277?term=html&page=1&position=4&page=1&position=4&related_id=1051277&origin=search
+
 
