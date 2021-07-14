@@ -1,10 +1,8 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I am Gayatri Godbole!</h1>
 
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-Here are some ideas to get you started: -->
 
-<!-- <img align="right" src="https://media.giphy.com/media/cLwJ6zsRKyAc2Swzgu/giphy.gif" height="250"/> -->
+
+<img align="right" src="https://media.giphy.com/media/cLwJ6zsRKyAc2Swzgu/giphy.gif" height="200"/>
 
  <br/>
  
