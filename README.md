@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I am Gayatri Godbole!</h1>
 
 <!--
-**gayatri2/gayatri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+Here are some ideas to get you started: -->
 
-Here are some ideas to get you started:
+<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/>
+ 
+I am a Second Year undergraduate at Pune Institute of Computer Technology, pursuing Computer engineering.
+I am passionate about Web Development, and I love working on various projects in the domain.
+Currently, I am also focusing on improving my DSA skills. 
+
+### Connect with me:
+
+[<img align="left" alt="gayatri2  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gayatri2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
+<div align="center">
+  <i><b>Github Stats</b></i>
+  <br/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gayatri2&show_icons=true" />
+</div>
+
+
+[instagram]: https://www.instagram.com/gayatri_godbole/
+[linkedin]: https://www.linkedin.com/in/gayatri-godbole-b1a0471b6/
