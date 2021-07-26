@@ -11,6 +11,9 @@ I am passionate about Web Development and working on various projects in the dom
 Currently, I am also focusing on improving my DSA skills. 
 Apart from technical interests, I love sports, traveling and photography.
 
+![](https://komarev.com/ghpvc/?username=gayatri2)
+
+
 
 ### Technologies :
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
