@@ -6,16 +6,17 @@
 
  <br/>
  
-I am a Third Year undergraduate at Pune Institute of Computer Technology, pursuing Computer engineering.
-I am passionate about Web Development and working on various projects in the domain interests me.
-Currently, I am also focusing on improving my DSA & Competitive Programming skills. 
-Apart from technical interests, I love sports, traveling and photography.
+I am a Third Year undergraduate at Pune Institute of Computer Technology, pursuing Computer engineering.<br>
+I am passionate about Web Development and working on various projects in the domain interests me.<br>
+Currently, I am also focusing on improving my DSA & Competitive Programming skills. <br>
+Apart from technical interests, I love sports, traveling and photography.<br>
 
 
 
 
 
-### Technologies :
+<h2>Technologies: </h2>
+
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img  align="left" alt="mongodb" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -25,11 +26,12 @@ Apart from technical interests, I love sports, traveling and photography.
 <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" width="50px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" />
 
+
 <br >
 
 <br> 
 
-### Languages:
+<h2> Languages: </h2>
 <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -50,11 +52,11 @@ Apart from technical interests, I love sports, traveling and photography.
 <br>
 
 
-### Connect with me:
+<h2>Connect with me: </h2>
 
-[<img align="left" alt="gayatri2  | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gayatri2 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="gayatri2 | GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="gayatri2  | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gayatri2 | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gayatri2 | GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <a target="_blank" href="mailto:gayatri.godbole02@gmail.com">
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
