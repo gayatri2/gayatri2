@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://media.giphy.com/media/cLwJ6zsRKyAc2Swzgu/giphy.gif" height="200"/>
+<!-- <img align="right" src="https://media.giphy.com/media/cLwJ6zsRKyAc2Swzgu/giphy.gif" height="200"/> -->
 
  <br/>
  
@@ -11,7 +11,7 @@ I am passionate about Web Development and working on various projects in the dom
 Currently, I am also focusing on improving my DSA skills. 
 Apart from technical interests, I love sports, traveling and photography.
 
-![](https://komarev.com/ghpvc/?username=gayatri2)
+
 
 
 
