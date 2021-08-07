@@ -54,7 +54,8 @@ Apart from technical interests, I love sports, traveling and photography.</p>
 
 
 <h2 align="center">Connect with me: </h2>
-<b60
+
+<br>
 
 [<img align="left" alt="gayatri2  | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gayatri2 | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
