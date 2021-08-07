@@ -8,7 +8,7 @@
  
 I am a Third Year undergraduate at Pune Institute of Computer Technology, pursuing Computer engineering.
 I am passionate about Web Development and working on various projects in the domain interests me.
-Currently, I am also focusing on improving my DSA skills. 
+Currently, I am also focusing on improving my DSA & Competitive Programming skills. 
 Apart from technical interests, I love sports, traveling and photography.
 
 
