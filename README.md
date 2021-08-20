@@ -64,6 +64,10 @@ Apart from technical interests, I love sports, traveling and photography.</p>
   <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br>
+<br>
+<br>
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayatri2&theme=dark)](https://git.io/streak-stats)
 
