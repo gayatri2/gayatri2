@@ -65,6 +65,7 @@ Apart from technical interests, I love sports, traveling and photography.</p>
 </a>
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayatri2&theme=dark)](https://git.io/streak-stats)
 
 
 
