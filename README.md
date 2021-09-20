@@ -1,79 +1,27 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I am Gayatri Godbole!</h1>
+<h1 align="center">Hi 👋, I'm Gayatri Godbole</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri2&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri2" /> </p>
 
+- 🌱 I’m currently learning **Data Structures and Flutter.**
 
-<!-- <img align="right" src="https://media.giphy.com/media/cLwJ6zsRKyAc2Swzgu/giphy.gif" height="200"/> -->
+- 💬 Ask me about **Full Stack Web Development.**
 
- <br/>
- 
-<p align="center">I am a Third Year undergraduate at Pune Institute of Computer Technology, pursuing Computer engineering.
-I am passionate about Web Development and working on various projects in the domain interests me.
-Currently, I am also focusing on improving my DSA & Competitive Programming skills.
-Apart from technical interests, I love sports, traveling and photography.</p>
+- 📫 How to reach me **gayatri.godbole02@gmail.com**
 
-<br>
+- 📄 Know about my experiences [https://gayatri2.github.io/Portfolio/](https://gayatri2.github.io/Portfolio/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/b1a0471b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b1a0471b6" height="30" width="40" /></a>
+<a href="https://instagram.com/gayatri_godbole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gayatri_godbole" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gayatri1222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayatri1222" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gayatrigodbole02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gayatrigodbole02" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatri2&show_icons=true&locale=en" alt="gayatri2" /></p>
 
-<h2 align="center">Technologies: </h2>
-<br>
-<img align="left" alt="React" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="nodejs" width=60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img  align="left" alt="mongodb" width=60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img  align="left" alt="bootstrap" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" width="60px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" />
-<br>
-<br> 
-<br>
-
-<h2 align="center"> Languages: </h2>
-<br>
-<div>
-<img align="left" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-
-<img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-</div>
-
-<!-- 
-
-<img align="left" alt="gayatri2  | Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
-
-<img align="left" alt="gayatri2  | Heroku" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" />
-<br>
-<img align="left" alt="gayatri2  | Netlify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" /> -->
-
-<br>
-
-<br>
-
-
-<h2 align="center">Connect with me: </h2>
-
-<br>
-
-[<img align="left" alt="gayatri2  | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gayatri2 | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="gayatri2 | GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-<a target="_blank" href="mailto:gayatri.godbole02@gmail.com">
-  <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayatri2&theme=dark)](https://git.io/streak-stats)
-
-
-
-[instagram]: https://www.instagram.com/gayatri_godbole/
-[linkedin]: https://www.linkedin.com/in/gayatri-godbole-b1a0471b6/
-[github]:https://github.com/gayatri2
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatri2&" alt="gayatri2" /></p>
