@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gayatri.godbole02@gmail.com**
 
-- 📄 Know about my experiences [https://gayatri2.github.io/Portfolio/](https://gayatri2.github.io/Portfolio/)
+- 📄 Know about my experiences [https://gayatri2.github.io/MyPortfolio/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
