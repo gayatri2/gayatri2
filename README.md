@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/b1a0471b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b1a0471b6" height="30" width="40" /></a>
 <a href="https://instagram.com/gayatri_godbole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gayatri_godbole" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gayatri1222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayatri1222" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gayatrigodbole02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gayatrigodbole02" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/gayatri1222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayatri1222" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gayatrigodbole02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gayatrigodbole02" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
